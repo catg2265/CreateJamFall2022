@@ -3,12 +3,11 @@
 # =============== #
 *.pidb.meta
 *.stackdump
-/ProjectSettings/ProjectVersion.txt
-[Bb]uild/
-[Bb]uilds/
-[Ll]ibrary/*
-[Oo]bj/
-[Tt]emp/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/*
+/[Oo]bj/
+/[Tt]emp/
 sysinfo.txt
 
 # ============================================= #
